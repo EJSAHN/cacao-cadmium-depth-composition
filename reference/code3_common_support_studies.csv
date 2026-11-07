@@ -1,0 +1,3 @@
+study_id,country,n_candidate_series,n_complete_series,n_excluded_series,shallow_index_mean_mg_kg,deep_mean_mg_kg,mean_delta_mg_kg,median_delta_mg_kg,n_increasing,n_decreasing,n_equal,estimand,bulk_density_assumption,inferential_intervals
+20,Ghana,8,7,1,5.838095238095237,7.5857142857142845,1.7476190476190474,1.4,6,1,0,depth_weighted_0_30_concentration_index_vs_intact_30_50,not_needed_for_index; constant_density_needed_for_mass_weighted_interpretation,False
+31,Ecuador,19,19,0,1.1035964912280702,0.8526315789473685,-0.2509649122807017,-0.22666666666666668,6,13,0,depth_weighted_0_30_concentration_index_vs_intact_30_50,not_needed_for_index; constant_density_needed_for_mass_weighted_interpretation,False

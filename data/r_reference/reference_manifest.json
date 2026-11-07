@@ -1,0 +1,19 @@
+{
+  "source_sha256": "09f328a87063373ccf0d15f5159a7b12775dbf8623233b35a74d734ab51a365a",
+  "original_r_script_url": "https://raw.githubusercontent.com/jordon-wade/Cacao-cadmium-meta-analysis/b16cd1def36732550f0c25182e82a71260cc3596/Cd%20meta%20analysis_finalized%20code.R",
+  "original_r_script_sha256": "400578ee88b984b69a6abb28d2797b135d00bbb8448897d92bae2e209537171a",
+  "r_version": "R version 4.5.0 (2025-04-11)",
+  "generated_utc": "2026-11-06",
+  "r_debian_package_url": "https://deb.debian.org/debian/pool/main/r/r-base/r-base-core_4.5.0-3_amd64.deb",
+  "r_debian_package_sha256": "6c529a906d2a26cf78e6c24eaa96e0bbd061b032e6c824f9a61e5f313353b155",
+  "reproduction_scope": "Base-R depth fit matching the public script method and source snapshot; historical R/ggplot2 versions, original rendered figure and confidence ribbon not reproduced. Original reversed scale is represented by x=-depth. Climate join has unique Sample.ID and does not alter depth/CD rows.",
+  "file_sha256": {
+    "data/r_reference/r_fit_counts.csv": "1f966d8ae5b5d1432481136a8ea1d0408046138894cc527deed94f801a3549d0",
+    "data/r_reference/R_SESSION_INFO.txt": "7b4ff9e01dccbf8beac88bfbbacea5e3087a19932d6a00f9c2f603c6e19a9a50",
+    "data/r_reference/r_input.csv": "a62ad073a4ab3973ce86ecb7de8ad92082332f200b36a0155bfb46bbf52af6a9",
+    "data/r_reference/R_EXECUTION_LOG.txt": "755a7dccc993192bcfcc0ec636a4f348827e8dd0d77e573577ee6cd8ecacea5a",
+    "data/r_reference/r_warnings.csv": "349dc05b5f5312ba4a449d5e339420ca7d50e7e4b65a48d07b381a1bd45ac8e6",
+    "data/r_reference/r_loess_reference.csv": "fb01d99f661370d5f2e617107fed8fd55358003af78c9a75a56a3e70550ba833",
+    "reproduction/verify_loess.R": "af7b4a2b86956be7fabb877385e732dafeb3c12cbe42a6f8e346219187a93a93"
+  }
+}

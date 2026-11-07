@@ -1,0 +1,3 @@
+study_key,assay,n_farms,baseline_delta_mg_kg,all_farms_decline_at_reported_values,single_masks,double_masks,triple_masks,quadruple_masks,all_nonempty_retained_masks,all_opposite_sign_masks_reported,minimum_hidden_for_opposite_signs_reported,single_opposite_sign_masks_reported,double_opposite_sign_masks_reported,robust_reversal_masks_under_literal_token_scenario,precision_verified,same_depth_estimand_as_main
+guarin2023,EPA3050B,5,-0.076,True,5,10,10,5,31,6,2,0,2,0,False,False
+guarin2023,Mehlich3,5,-0.036,False,5,10,10,5,31,7,2,0,1,3,False,False

@@ -1,0 +1,11 @@
+{
+  "depth_core.py": "e0e06659257cdf75a90bf820603d75c72f254127ae81ec2838068b3efad672d7",
+  "depth_models.py": "cce96694114741e5985782f0734c49ce267b807dd4b0feaca5d544115717af03",
+  "code3_stats.py": "a30237059bc9349ea8249d3cd6c0f3e973d882aaf689e45c2d72978d5923fce5",
+  "code4_stats.py": "3b16cf3df6ed05a141345a1f89886af8128463b93a12cbd08459c9cd7f9bb9e8",
+  "code5_stats.py": "cab1782336d7d681c7c98101ede7d37835a398b01bb12f1d6a53ff172d9f2075",
+  "external_stats.py": "df6a3cf559e8d193309efcfb9b1796edaa521aea76d53c8e8461d2d4432f4ff7",
+  "source_checks.py": "df11fa101a36a1442f590ccb88ceaa685d09a99bc84df1f8a4baa0517333a3cb",
+  "r_reference_checks.py": "ea6afe91bdef69090dbff918ae0998953929c7579214c4a58d972a7b1023b8dd",
+  "io_support.py": "c6b4af84cc85081f42435822c91b32ff938118b561bcbf51910368ec0b16e714"
+}

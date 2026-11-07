@@ -1,0 +1,11 @@
+"scenario","response","n_rows","n_series","n_studies","max_abs_reversal_difference","n_nonfinite_predictions"
+"all_rows_upper","observed",973,793,18,0.761354665243605,0
+"all_rows_upper","flattened",973,793,18,0.840202021651151,0
+"no_arguello_upper","observed",413,233,17,0.502912644583243,0
+"no_arguello_upper","flattened",413,233,17,0.484565089110052,0
+"conservative_omit_17_27","observed",950,786,16,1.03645336206176,0
+"conservative_omit_17_27","flattened",950,786,16,1.13100028462869,0
+"audited_farm_composites_20_31","observed",113,27,2,0.181973351848061,0
+"audited_farm_composites_20_31","flattened",113,27,2,0.167376033877001,0
+"audited_farm_composites_20_31","forced_nonincreasing",113,27,2,0.204041269479857,0
+"audited_farm_composites_20_31","forced_nondecreasing",113,27,2,0.110657186182914,0

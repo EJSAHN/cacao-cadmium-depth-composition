@@ -1,0 +1,279 @@
+{
+  "status": "ALL_COMPARED_TABLES_MATCH",
+  "comparisons": 44,
+  "max_abs_difference": 1.0036416142611415e-13,
+  "rtol": 1e-11,
+  "atol": 1e-10,
+  "source_scope": "Pinned raw CSV plus attributed primary transcriptions; 44 deterministic scientific tables, including archived R comparisons. R not rerun.",
+  "excluded_windows_review_tables": [
+    "code6_claim_evidence_ledger.csv",
+    "code6_prior_stage_audit.csv",
+    "code6_prior_table_comparisons.csv"
+  ],
+  "tables": [
+    {
+      "table": "code3_common_support_sites.csv",
+      "rows": 27,
+      "columns": 10,
+      "max_abs_difference": 4.440892098500626e-16
+    },
+    {
+      "table": "code3_common_support_studies.csv",
+      "rows": 2,
+      "columns": 15,
+      "max_abs_difference": 2.220446049250313e-16
+    },
+    {
+      "table": "code3_counterexample_contrasts.csv",
+      "rows": 96,
+      "columns": 28,
+      "max_abs_difference": 1.709743457922741e-14
+    },
+    {
+      "table": "code3_counterexample_curves.csv",
+      "rows": 2424,
+      "columns": 11,
+      "max_abs_difference": 1.3322676295501878e-14
+    },
+    {
+      "table": "code3_counterexample_records.csv",
+      "rows": 452,
+      "columns": 17,
+      "max_abs_difference": 0.0
+    },
+    {
+      "table": "code3_ghana_leave_one_site.csv",
+      "rows": 30,
+      "columns": 29,
+      "max_abs_difference": 9.103828801926284e-15
+    },
+    {
+      "table": "code3_r_comparison.csv",
+      "rows": 840,
+      "columns": 12,
+      "max_abs_difference": 3.907985046680551e-14
+    },
+    {
+      "table": "code3_r_contrasts.csv",
+      "rows": 40,
+      "columns": 9,
+      "max_abs_difference": 1.1546319456101628e-14
+    },
+    {
+      "table": "code3_r_warnings.csv",
+      "rows": 92,
+      "columns": 6,
+      "max_abs_difference": 0.0
+    },
+    {
+      "table": "code3_smoother_sensitivity.csv",
+      "rows": 84,
+      "columns": 26,
+      "max_abs_difference": 1.0036416142611415e-13
+    },
+    {
+      "table": "code4_common_support_inventory.csv",
+      "rows": 27,
+      "columns": 10,
+      "max_abs_difference": 4.440892098500626e-16
+    },
+    {
+      "table": "code4_double_omissions.csv",
+      "rows": 517,
+      "columns": 27,
+      "max_abs_difference": 1.3322676295501878e-15
+    },
+    {
+      "table": "code4_mask_membership.csv",
+      "rows": 52,
+      "columns": 9,
+      "max_abs_difference": 4.440892098500626e-16
+    },
+    {
+      "table": "code4_mask_scenarios.csv",
+      "rows": 5,
+      "columns": 24,
+      "max_abs_difference": 2.7755575615628914e-16
+    },
+    {
+      "table": "code4_retention_bounds.csv",
+      "rows": 52,
+      "columns": 20,
+      "max_abs_difference": 4.0245584642661925e-16
+    },
+    {
+      "table": "code4_single_omissions.csv",
+      "rows": 52,
+      "columns": 27,
+      "max_abs_difference": 3.0531133177191805e-16
+    },
+    {
+      "table": "code4_site_values.csv",
+      "rows": 26,
+      "columns": 12,
+      "max_abs_difference": 4.440892098500626e-16
+    },
+    {
+      "table": "code5_common_support_inventory.csv",
+      "rows": 27,
+      "columns": 10,
+      "max_abs_difference": 4.440892098500626e-16
+    },
+    {
+      "table": "code5_external_mask_contrasts.csv",
+      "rows": 62,
+      "columns": 43,
+      "max_abs_difference": 0.0
+    },
+    {
+      "table": "code5_external_scope_summary.csv",
+      "rows": 2,
+      "columns": 17,
+      "max_abs_difference": 0.0
+    },
+    {
+      "table": "code5_external_site_values.csv",
+      "rows": 10,
+      "columns": 19,
+      "max_abs_difference": 0.0
+    },
+    {
+      "table": "code5_external_witness_coefficients.csv",
+      "rows": 29,
+      "columns": 11,
+      "max_abs_difference": 0.0
+    },
+    {
+      "table": "code5_primary_rounding_cells.csv",
+      "rows": 113,
+      "columns": 23,
+      "max_abs_difference": 0.0
+    },
+    {
+      "table": "code5_rounding_baselines.csv",
+      "rows": 3,
+      "columns": 48,
+      "max_abs_difference": 4.440892098500626e-16
+    },
+    {
+      "table": "code5_rounding_double_omissions.csv",
+      "rows": 517,
+      "columns": 51,
+      "max_abs_difference": 8.604228440844963e-15
+    },
+    {
+      "table": "code5_rounding_scenarios.csv",
+      "rows": 5,
+      "columns": 50,
+      "max_abs_difference": 7.993605777301127e-15
+    },
+    {
+      "table": "code5_rounding_scope_summary.csv",
+      "rows": 3,
+      "columns": 16,
+      "max_abs_difference": 4.440892098500626e-16
+    },
+    {
+      "table": "code5_rounding_single_omissions.csv",
+      "rows": 52,
+      "columns": 51,
+      "max_abs_difference": 7.993605777301127e-15
+    },
+    {
+      "table": "code5_site_values.csv",
+      "rows": 26,
+      "columns": 12,
+      "max_abs_difference": 4.440892098500626e-16
+    },
+    {
+      "table": "code5_witness_rounding_coefficients.csv",
+      "rows": 1356,
+      "columns": 11,
+      "max_abs_difference": 0.0
+    },
+    {
+      "table": "code5_witness_rounding_endpoints.csv",
+      "rows": 24,
+      "columns": 13,
+      "max_abs_difference": 4.440892098500626e-16
+    },
+    {
+      "table": "code6_figure1_interval_support.csv",
+      "rows": 32,
+      "columns": 7,
+      "max_abs_difference": 0.0
+    },
+    {
+      "table": "code6_figure1_r_curves.csv",
+      "rows": 840,
+      "columns": 12,
+      "max_abs_difference": 3.907985046680551e-14
+    },
+    {
+      "table": "code6_figure1_r_focal_contrasts.csv",
+      "rows": 10,
+      "columns": 9,
+      "max_abs_difference": 1.0658141036401503e-14
+    },
+    {
+      "table": "code6_figure2_sites.csv",
+      "rows": 26,
+      "columns": 12,
+      "max_abs_difference": 4.440892098500626e-16
+    },
+    {
+      "table": "code6_figure2_witnesses.csv",
+      "rows": 3,
+      "columns": 50,
+      "max_abs_difference": 7.993605777301127e-15
+    },
+    {
+      "table": "code6_figure3_epa_site_values.csv",
+      "rows": 5,
+      "columns": 19,
+      "max_abs_difference": 0.0
+    },
+    {
+      "table": "code6_figure3_epa_witness.csv",
+      "rows": 1,
+      "columns": 43,
+      "max_abs_difference": 0.0
+    },
+    {
+      "table": "code6_table1_evidence_scope.csv",
+      "rows": 5,
+      "columns": 5,
+      "max_abs_difference": 0.0
+    },
+    {
+      "table": "code6_table2_mask_enumeration.csv",
+      "rows": 3,
+      "columns": 16,
+      "max_abs_difference": 4.440892098500626e-16
+    },
+    {
+      "table": "code6_table3_selected_witnesses.csv",
+      "rows": 3,
+      "columns": 13,
+      "max_abs_difference": 3.0531133177191805e-16
+    },
+    {
+      "table": "code6_table4_external_example.csv",
+      "rows": 2,
+      "columns": 43,
+      "max_abs_difference": 0.0
+    },
+    {
+      "table": "input_total_cd_records.csv",
+      "rows": 973,
+      "columns": 14,
+      "max_abs_difference": 0.0
+    },
+    {
+      "table": "primary_means_113_comparison.csv",
+      "rows": 113,
+      "columns": 11,
+      "max_abs_difference": 0.0
+    }
+  ]
+}

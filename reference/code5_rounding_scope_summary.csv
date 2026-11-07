@@ -1,0 +1,4 @@
+scope,n_sites,baseline_delta_mg_kg,baseline_lower_mg_kg,baseline_upper_mg_kg,baseline_robust_sign,single_masks,single_point_naive_flips,single_rounding_robust_naive_flips,single_point_flip_with_paired_baseline,single_rounding_robust_flip_with_paired_baseline,double_masks,double_point_naive_flips,double_rounding_robust_naive_flips,double_point_flip_with_paired_baseline,double_rounding_robust_flip_with_paired_baseline
+mixed_20_31,26,0.2871153846153846,0.2528846153846155,0.32134615384615406,positive,26,2,2,2,2,325,49,34,48,33
+Ghana_20,7,1.7476190476190474,1.6476190476190469,1.847619047619047,positive,7,0,0,0,0,21,1,0,1,0
+Ecuador_31,19,-0.2509649122807017,-0.26096491228070173,-0.24096491228070174,negative,19,0,0,0,0,171,0,0,0,0
