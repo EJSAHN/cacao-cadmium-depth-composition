@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+outputs/
+data/wade2022_source.csv
+data/r_reference/r_input.csv
+*.zip
+*.pdf
+*.png
+*.docx
+.DS_Store
+Thumbs.db
