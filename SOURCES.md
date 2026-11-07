@@ -20,7 +20,7 @@ Full-text locator: https://ugspace.ug.edu.gh/bitstreams/ee74a93b-c24a-4d90-84db-
 
 Chavez, E., He, Z. L., Stoffella, P. J., Mylavarapu, R. S., Li, Y. C., Moyano, B., and Baligar, V. C. (2015), *Concentration of cadmium in cacao beans and its relationship with soil cadmium in southern Ecuador*, Science of the Total Environment, 533, 205–214, https://doi.org/10.1016/j.scitotenv.2015.06.106.
 
-`data/code2_ecuador_primary_cd_check.csv` contains 76 total-recoverable Cd means from Tables 1–2. The values and interval labels were checked against publicly readable coauthor-uploaded original article text identified by DOI, authors, journal and pages; the original PDF table layout was not independently inspected. The source comprises 19 farm composites, not individual soil cores. Assay: EPA 3050B HNO3/H2O2 digestion and ICP-OES technical readings. The paper and table artwork are not included.
+`data/code2_ecuador_primary_cd_check.csv` contains 76 total-recoverable Cd means from Tables 1–2. All 76 values and depth intervals were checked against the publisher PDF of the article. The source comprises 19 farm composites (four cores per site and depth), not individual soil cores. Assay: EPA 3050B HNO3/H2O2 digestion with ICP-OES determination in triplicate. The paper and table artwork are not included.
 
 Public bibliographic record: https://pubmed.ncbi.nlm.nih.gov/26172587/
 
